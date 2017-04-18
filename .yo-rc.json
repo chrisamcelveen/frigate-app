@@ -1,0 +1,17 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "frigate-app",
+    "username": "camcelve",
+    "userEmail": "camcelve@gmail.com",
+    "stack": "fullstack",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "camcelve",
+    "client": "ng2",
+    "stylePreprocessor": "none",
+    "server": "go",
+    "goWebFrameworkServer": "gin",
+    "secure": true,
+    "testsSeparated": true,
+    "differentStaticServer": false
+  }
+}
